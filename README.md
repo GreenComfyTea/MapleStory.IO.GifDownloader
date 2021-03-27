@@ -1,7 +1,7 @@
 # MapleStory.IO.GifDownloader
 The program allows to download a batch of character GIFs from https://beta.maplestory.studio and https://maplestory.io.
 
-<img src="https://i.imgur.com/CZ9vTjW.png" />
+<img src="https://i.imgur.com/LicDvNV.png" />
 
 # Prerequisites
 - .Net 5
@@ -9,7 +9,7 @@ The program allows to download a batch of character GIFs from https://beta.maple
 - XamlAnimatedGif 1.2.3 (included)
 
 # How to
-<h1>ONLY WORKS WITH CHARACTERS!!!</h1>
+<b>ONLY WORKS WITH CHARACTERS!!!</b>
 
 - Go to https://beta.maplestory.studio and create or import your character.
 - Open Character Settings and under "Links" section press "Download" or "Animated".
@@ -21,6 +21,6 @@ The program allows to download a batch of character GIFs from https://beta.maple
 - Flip horizontally if needed. Character is facing left by default.
 - Press Start and wait while all gifs are downloaded.
 
-<h1>The total amount of gifs is 768 for each combination of parameters.</h1>
+<b>The total amount of gifs is 768 for each combination of parameters.</b>
 
 All gifs are sorted by expressions and actions.
