@@ -34,6 +34,11 @@
 		<SatelliteResourceLanguages>en</SatelliteResourceLanguages>
 	</PropertyGroup>
 
+	<PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+	  <PlatformTarget>x64</PlatformTarget>
+	  <AllowUnsafeBlocks>false</AllowUnsafeBlocks>
+	</PropertyGroup>
+
 	<ItemGroup>
 		<None Remove="resources\maple_story_animation.gif" />
 		<None Remove="resources\maple_story_icon.ico" />
