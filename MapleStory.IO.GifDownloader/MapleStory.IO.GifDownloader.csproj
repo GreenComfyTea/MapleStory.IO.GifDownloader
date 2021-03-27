@@ -1,0 +1,62 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+	<PropertyGroup>
+		<OutputType>WinExe</OutputType>
+		<TargetFramework>net5.0-windows</TargetFramework>
+		<UseWPF>true</UseWPF>
+		<UseWindowsForms>true</UseWindowsForms>
+		<Authors>GreenComfyTea</Authors>
+		<PackageProjectUrl>twitch.tv/GreenComfyTea</PackageProjectUrl>
+		<RepositoryUrl>github/MapleStory.IO.GifDownloader</RepositoryUrl>
+		<ApplicationIcon>resources\maple_story_icon.ico</ApplicationIcon>
+		<Platforms>AnyCPU;x64;x86</Platforms>
+	</PropertyGroup>
+
+	<PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+		<PlatformTarget>x64</PlatformTarget>
+		<AllowUnsafeBlocks>false</AllowUnsafeBlocks>
+		<Optimize>true</Optimize>
+	</PropertyGroup>
+
+	<PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x86'">
+		<PlatformTarget>x64</PlatformTarget>
+		<AllowUnsafeBlocks>false</AllowUnsafeBlocks>
+		<Optimize>true</Optimize>
+	</PropertyGroup>
+
+	<PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+		<PlatformTarget>x64</PlatformTarget>
+		<AllowUnsafeBlocks>false</AllowUnsafeBlocks>
+		<Optimize>true</Optimize>
+	</PropertyGroup>
+
+	<PropertyGroup>
+		<SatelliteResourceLanguages>en</SatelliteResourceLanguages>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<None Remove="resources\maple_story_animation.gif" />
+		<None Remove="resources\maple_story_icon.ico" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<PackageReference Include="Extended.Wpf.Toolkit" Version="4.0.2" />
+		<PackageReference Include="XamlAnimatedGif" Version="1.2.3" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<Resource Include="resources\maple_story_animation.gif">
+			<CopyToOutputDirectory>Always</CopyToOutputDirectory>
+		</Resource>
+		<Resource Include="resources\maple_story_icon.ico">
+			<CopyToOutputDirectory>Always</CopyToOutputDirectory>
+		</Resource>
+	</ItemGroup>
+
+	<ItemGroup>
+		<None Update="maple_story_icon.ico">
+			<CopyToOutputDirectory>Always</CopyToOutputDirectory>
+		</None>
+	</ItemGroup>
+
+</Project>
