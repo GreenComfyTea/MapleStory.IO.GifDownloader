@@ -1,7 +1,7 @@
 # MapleStory.IO.GifDownloader
 The program allows to download a batch of character GIFs from https://beta.maplestory.studio and https://maplestory.io.
 
-<img src="https://i.imgur.com/LicDvNV.png" />
+<img src="https://i.imgur.com/3RhVBWb.png" />
 
 # Prerequisites
 - .Net 5
