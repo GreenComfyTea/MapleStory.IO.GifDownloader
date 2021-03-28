@@ -5,7 +5,7 @@
 		xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:gif="https://github.com/XamlAnimatedGif/XamlAnimatedGif"
 		mc:Ignorable="d"
-		Title="Maple.IO.GifDownloader v1.0 by GreenComfyTea"
+		Title="Maple.IO.GifDownloader v1.1 by GreenComfyTea"
         Width="480"
         Height="350"
         MinWidth="480"
