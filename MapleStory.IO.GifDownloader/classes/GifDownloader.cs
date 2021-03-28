@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Diagnostics;
 using System.IO;
 using System.Net;
 
@@ -63,7 +64,7 @@ namespace MapleStory.IO.GifDownloader
             {
 				if (characterData.Contains(expression))
 				{
-					characterData.Replace(expression, "EXPRESSION");
+					characterData = characterData.Replace(expression, "EXPRESSION");
 					break;
 				}
             }
