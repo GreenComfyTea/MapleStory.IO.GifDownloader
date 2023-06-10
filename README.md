@@ -31,6 +31,9 @@
 		<img alt="Release Date" src="https://img.shields.io/github/release-date/greencomfytea/maplestory.io.gifdownloader" />
 	</a>
 	<a href="">
+		<img alt="Platform" src="https://img.shields.io/badge/platform-win-lightgrey" />
+	</a>
+	<a href="">
 		<img alt="Maintenance" src="https://img.shields.io/maintenance/yes/2022" />
 	</a>
 </p>
