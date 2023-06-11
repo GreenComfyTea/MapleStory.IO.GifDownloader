@@ -20,7 +20,7 @@
 	<a href="https://github.com/greencomfytea/maplestory.io.gifdownloader/pulls">
 		<img alt="Pull Requests Closed" src="https://custom-icon-badges.demolab.com/github/issues-pr-closed/greencomfytea/maplestory.io.gifdownloader?logo=git-pull-request-closed" />
 	</a>
-<br>
+	<br>
 	<a href="https://github.com/greencomfytea/maplestory.io.gifdownloader/blob/main/LICENSE">
 		<img alt="License" src="https://custom-icon-badges.demolab.com/github/license/greencomfytea/maplestory.io.gifdownloader?logo=law" />
 	</a>
@@ -36,17 +36,17 @@
 	<a href="">
 		<img alt="Maintenance" src="https://custom-icon-badges.demolab.com/maintenance/no/2023?logo=tools" />
 	</a>
-<br>
+	<br>
 	<a href="https://github.com/greencomfytea/maplestory.io.gifdownloader/commits/main">
 		<img alt="Last Commit" src="https://custom-icon-badges.demolab.com/github/last-commit/greencomfytea/maplestory.io.gifdownloader?logo=git-commit" />
 	</a>
 	<a href="https://github.com/greencomfytea/maplestory.io.gifdownloader/commits/main">
 		<img alt="Commits Since" src="https://custom-icon-badges.demolab.com/github/commits-since/greencomfytea/maplestory.io.gifdownloader/latest?logo=git-commit" />
 	</a>
-<a href="https://github.com/greencomfytea/maplestory.io.gifdownloader/commits/main">
+	<a href="https://github.com/greencomfytea/maplestory.io.gifdownloader/commits/main">
 		<img alt="Commits" src="https://custom-icon-badges.demolab.com/github/commit-activity/t/greencomfytea/maplestory.io.gifdownloader?logo=git-commit" />
 	</a>
-<br>
+	<br>
 	<a href="https://github.com/greencomfytea/maplestory.io.gifdownloader/graphs/commit-activity">
 		<img alt="Commit Activity (Year)" src="https://custom-icon-badges.demolab.com/github/commit-activity/y/greencomfytea/maplestory.io.gifdownloader?logo=pulse" />
 	</a>
@@ -56,7 +56,7 @@
 	<a href="https://github.com/greencomfytea/maplestory.io.gifdownloader/graphs/commit-activity">
 		<img alt="Commit Activity (Week)" src="https://custom-icon-badges.demolab.com/github/commit-activity/w/greencomfytea/maplestory.io.gifdownloader?logo=pulse" />
 	</a>
-<br>
+	<br>
 	<a href="">
 		<img alt="Repo Size" src="https://custom-icon-badges.demolab.com/github/repo-size/greencomfytea/maplestory.io.gifdownloader?logo=database" />
 	</a>
@@ -78,7 +78,7 @@
 	<a href="https://github.com/greencomfytea/maplestory.io.gifdownloader/graphs/traffic">
 		<img alt="Hits" src="https://custom-icon-badges.demolab.com/endpoint?url=https://hits.dwyl.com/greencomfytea/maplestory.io.gifdownloader.json?color=blue&logo=eye" />
 	</a>
-<br>
+	<br>
 	<a href="https://beta.maplestory.studio">
 		<img alt="Website" src="https://custom-icon-badges.demolab.com/website?down_color=red&down_message=down&up_color=brightgreen&up_message=up&logo=link&url=https%3A%2F%2Fbeta.maplestory.studio" />
 	</a>
@@ -91,7 +91,7 @@
 	<a href="https://www.twitch.tv/greencomfytea">
 		<img alt="Twitch" src="https://img.shields.io/twitch/status/greencomfytea?logo=twitch" />
 	</a>
-<br>
+	<br>
 	<a href="https://github.com/greencomfytea">
 		<img alt="Author" src="https://custom-icon-badges.demolab.com/badge/author-GreenComfyTea-green?logo=person" />
 	</a>
