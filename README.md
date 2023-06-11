@@ -5,90 +5,100 @@
 
 <p align="center">
 	<a href="https://github.com/greencomfytea/maplestory.io.gifdownloader/graphs/contributors">
-		<img alt="Contributors" src="https://img.shields.io/github/contributors/greencomfytea/maplestory.io.gifdownloader" />
+		<img alt="Contributors" src="https://custom-icon-badges.demolab.com/github/contributors/greencomfytea/maplestory.io.gifdownloader?logo=person-add" />
 	</a>
 	<a href="https://github.com/greencomfytea/maplestory.io.gifdownloader/issues">
-		<img alt="Issues" src="https://img.shields.io/github/issues/greencomfytea/maplestory.io.gifdownloader" />
+		<img alt="Issues" src="https://custom-icon-badges.demolab.com/github/issues/greencomfytea/maplestory.io.gifdownloader?logo=issue-opened" />
 	</a>
 	<a href="https://github.com/greencomfytea/maplestory.io.gifdownloader/issues">
-		<img alt="Issues Closed" src="https://img.shields.io/github/issues-closed/greencomfytea/maplestory.io.gifdownloader" />
+		<img alt="Issues Closed" src="https://custom-icon-badges.demolab.com/github/issues-closed/greencomfytea/maplestory.io.gifdownloader?logo=issue-closed" />
 	</a>
 	<a href="https://github.com/greencomfytea/maplestory.io.gifdownloader/pulls">
-		<img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/greencomfytea/maplestory.io.gifdownloader" />
+		<img alt="Pull Requests" src="https://custom-icon-badges.demolab.com/github/issues-pr/greencomfytea/maplestory.io.gifdownloader?logo=git-pull-request" />
 	</a>
 	<a href="https://github.com/greencomfytea/maplestory.io.gifdownloader/pulls">
-		<img alt="Pull Requests Closed" src="https://img.shields.io/github/issues-pr-closed/greencomfytea/maplestory.io.gifdownloader" />
+		<img alt="Pull Requests Closed" src="https://custom-icon-badges.demolab.com/github/issues-pr-closed/greencomfytea/maplestory.io.gifdownloader?logo=git-pull-request-closed" />
 	</a>
-</p>
-<p align="center">
+<br>
 	<a href="https://github.com/greencomfytea/maplestory.io.gifdownloader/blob/main/LICENSE">
-		<img alt="License" src="https://img.shields.io/github/license/greencomfytea/maplestory.io.gifdownloader" />
+		<img alt="License" src="https://custom-icon-badges.demolab.com/github/license/greencomfytea/maplestory.io.gifdownloader?logo=law" />
 	</a>
 	<a href="https://github.com/greencomfytea/maplestory.io.gifdownloader/releases">
-		<img alt="Release Version" src="https://img.shields.io/github/v/release/greencomfytea/maplestory.io.gifdownloader" />
+		<img alt="Release Version" src="https://custom-icon-badges.demolab.com/github/v/release/greencomfytea/maplestory.io.gifdownloader?logo=tag" />
 	</a>
 	<a href="https://github.com/greencomfytea/maplestory.io.gifdownloader/releases">
-		<img alt="Release Date" src="https://img.shields.io/github/release-date/greencomfytea/maplestory.io.gifdownloader" />
+		<img alt="Release Date" src="https://custom-icon-badges.demolab.com/github/release-date/greencomfytea/maplestory.io.gifdownloader?logo=clock" />
 	</a>
 	<a href="">
-		<img alt="Platform" src="https://img.shields.io/badge/platform-win-lightgrey" />
+		<img alt="Platform" src="https://custom-icon-badges.demolab.com/badge/platform-win32%20%7C%20win64-blue?logo=device-desktop" />
 	</a>
 	<a href="">
-		<img alt="Maintenance" src="https://img.shields.io/maintenance/yes/2022" />
+		<img alt="Maintenance" src="https://custom-icon-badges.demolab.com/maintenance/no/2023?logo=tools" />
 	</a>
-</p>
-<p align="center">
+<br>
+	<a href="https://github.com/greencomfytea/maplestory.io.gifdownloader/commits/main">
+		<img alt="Last Commit" src="https://custom-icon-badges.demolab.com/github/last-commit/greencomfytea/maplestory.io.gifdownloader?logo=git-commit" />
+	</a>
+	<a href="https://github.com/greencomfytea/maplestory.io.gifdownloader/commits/main">
+		<img alt="Commits Since" src="https://custom-icon-badges.demolab.com/github/commits-since/greencomfytea/maplestory.io.gifdownloader/latest?logo=git-commit" />
+	</a>
+<a href="https://github.com/greencomfytea/maplestory.io.gifdownloader/commits/main">
+		<img alt="Commits" src="https://custom-icon-badges.demolab.com/github/commit-activity/t/greencomfytea/maplestory.io.gifdownloader?logo=git-commit" />
+	</a>
+<br>
+	<a href="https://github.com/greencomfytea/maplestory.io.gifdownloader/graphs/commit-activity">
+		<img alt="Commit Activity (Year)" src="https://custom-icon-badges.demolab.com/github/commit-activity/y/greencomfytea/maplestory.io.gifdownloader?logo=pulse" />
+	</a>
+	<a href="https://github.com/greencomfytea/maplestory.io.gifdownloader/graphs/commit-activity">
+		<img alt="Commit Activity (Month)" src="https://custom-icon-badges.demolab.com/github/commit-activity/m/greencomfytea/maplestory.io.gifdownloader?logo=pulse" />
+	</a>
+	<a href="https://github.com/greencomfytea/maplestory.io.gifdownloader/graphs/commit-activity">
+		<img alt="Commit Activity (Week)" src="https://custom-icon-badges.demolab.com/github/commit-activity/w/greencomfytea/maplestory.io.gifdownloader?logo=pulse" />
+	</a>
+<br>
 	<a href="">
-		<img alt="Repo Size" src="https://img.shields.io/github/repo-size/greencomfytea/maplestory.io.gifdownloader" />
+		<img alt="Repo Size" src="https://custom-icon-badges.demolab.com/github/repo-size/greencomfytea/maplestory.io.gifdownloader?logo=database" />
 	</a>
 	<a href="">
-		<img alt="Goto Counter" src="https://img.shields.io/github/search/greencomfytea/maplestory.io.gifdownloader/goto" />
+		<img alt="Goto Counter" src="https://custom-icon-badges.demolab.com/github/search/greencomfytea/maplestory.io.gifdownloader/goto?logo=git-compare" />
 	</a>
 	<a href="https://github.com/sponsors/greencomfytea">
-		<img alt="Sponsors" src="https://img.shields.io/github/sponsors/greencomfytea" />
+		<img alt="Sponsors" src="https://custom-icon-badges.demolab.com/github/sponsors/greencomfytea?logo=heart" />
 	</a>
-	<a href="">
-		<img alt="Watchers" src="https://img.shields.io/github/watchers/greencomfytea/maplestory.io.gifdownloader" />
+	<a href="https://github.com/GreenComfyTea/maplestory.io.gifdownloader/watchers">
+		<img alt="Watchers" src="https://custom-icon-badges.demolab.com/github/watchers/greencomfytea/maplestory.io.gifdownloader?logo=eye" />
 	</a>
 	<a href="https://github.com/greencomfytea/maplestory.io.gifdownloader/forks">
-		<img alt="Forks" src="https://img.shields.io/github/forks/greencomfytea/maplestory.io.gifdownloader" />
+		<img alt="Forks" src="https://custom-icon-badges.demolab.com/github/forks/greencomfytea/maplestory.io.gifdownloader?logo=repo-forked" />
 	</a>
-	<a href="">
-		<img alt="Stars" src="https://img.shields.io/github/stars/greencomfytea/maplestory.io.gifdownloader" />
+	<a href="https://github.com/greencomfytea/maplestory.io.gifdownloader/stargazers">
+		<img alt="Stars" src="https://custom-icon-badges.demolab.com/github/stars/greencomfytea/maplestory.io.gifdownloader?logo=star" />
 	</a>
-</p>
-<p align="center">
-	<a href="https://github.com/greencomfytea/maplestory.io.gifdownloader/commits/main">
-		<img alt="Last Commit" src="https://img.shields.io/github/last-commit/greencomfytea/maplestory.io.gifdownloader" />
+	<a href="https://github.com/greencomfytea/maplestory.io.gifdownloader/graphs/traffic">
+		<img alt="Hits" src="https://custom-icon-badges.demolab.com/endpoint?url=https://hits.dwyl.com/greencomfytea/maplestory.io.gifdownloader.json?color=blue&logo=eye" />
 	</a>
-	<a href="https://github.com/greencomfytea/maplestory.io.gifdownloader/commits/main">
-		<img alt="Commits Since" src="https://img.shields.io/github/commits-since/greencomfytea/maplestory.io.gifdownloader/latest" />
-	</a>
-	<a href="https://github.com/greencomfytea/maplestory.io.gifdownloader/graphs/commit-activity">
-		<img alt="Commit Activity" src="https://img.shields.io/github/commit-activity/t/greencomfytea/maplestory.io.gifdownloader" />
-	</a>
-	<a href="https://github.com/greencomfytea/maplestory.io.gifdownloader/graphs/commit-activity">
-		<img alt="Commit Activity (Year)" src="https://img.shields.io/github/commit-activity/y/greencomfytea/maplestory.io.gifdownloader" />
-	</a>
-	<a href="https://github.com/greencomfytea/maplestory.io.gifdownloader/graphs/commit-activity">
-		<img alt="Commit Activity (Month)" src="https://img.shields.io/github/commit-activity/m/greencomfytea/maplestory.io.gifdownloader" />
-	</a>
-	<a href="https://github.com/greencomfytea/maplestory.io.gifdownloader/graphs/commit-activity">
-		<img alt="Commit Activity (Week)" src="https://img.shields.io/github/commit-activity/w/greencomfytea/maplestory.io.gifdownloader" />
-	</a>
-</p>
-<p align="center">
+<br>
 	<a href="https://beta.maplestory.studio">
-		<img alt="Website" src="https://img.shields.io/website?down_color=red&down_message=down&up_color=green&up_message=up&url=https://beta.maplestory.studio" />
+		<img alt="Website" src="https://custom-icon-badges.demolab.com/website?down_color=red&down_message=down&up_color=brightgreen&up_message=up&url=https%3A%2F%2Fbeta.maplestory.studio?logo=link" />
 	</a>
 	<a href="https://github.com/greencomfytea?tab=followers">
-		<img alt="Followers" src="https://img.shields.io/github/followers/greencomfytea" />
+		<img alt="Followers" src="https://custom-icon-badges.demolab.com/github/followers/greencomfytea?logo=people" />
 	</a>
 	<a href="https://twitter.com/greencomfytea">
-		<img alt="Twitter" src="https://img.shields.io/twitter/follow/greencomfytea" />
+		<img alt="Twitter" src="https://img.shields.io/twitter/follow/greencomfytea?logo=twitter" />
 	</a>
 	<a href="https://www.twitch.tv/greencomfytea">
-		<img alt="Twitch" src="https://img.shields.io/twitch/status/greencomfytea" />
+		<img alt="Twitch" src="https://img.shields.io/twitch/status/greencomfytea?logo=twitch" />
+	</a>
+<br>
+	<a href="https://github.com/greencomfytea">
+		<img alt="Author" src="https://custom-icon-badges.demolab.com/badge/author-GreenComfyTea-green?logo=person" />
+	</a>
+	<a href="https://github.com/topics/open-source">
+		<img alt="Open Source" src="https://img.shields.io/badge/open%20source-%20yes-brightgreen?logo=openvpn" />
+	</a>
+	<a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
+		<img alt="Written in" src="https://custom-icon-badges.demolab.com/badge/written%20in-c%23-953cad?logo=terminal" />
 	</a>
 </p>
 
