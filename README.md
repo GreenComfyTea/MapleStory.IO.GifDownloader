@@ -1,4 +1,5 @@
 <p align="center">
+	<img alt="Icon" src="https://github.com/GreenComfyTea/MapleStory.IO.GifDownloader/assets/30152047/212f454f-2257-4569-9c2a-e0c50f96ab7f" />
 	<h2 align="center"><b>MapleStory.IO.GifDownloader</b></h2>
 	<p align="center">The program allows to download a batch of character GIFs from https://beta.maplestory.studio and https://maplestory.io.</p>
 </p>
