@@ -39,13 +39,13 @@
 	<br>
 	<br>
 	<a href="https://github.com/greencomfytea/maplestory.io.gifdownloader/commits/main">
+		<img alt="Commits" src="https://custom-icon-badges.demolab.com/github/commit-activity/t/greencomfytea/maplestory.io.gifdownloader?logo=git-commit" />
+	</a>
+	<a href="https://github.com/greencomfytea/maplestory.io.gifdownloader/commits/main">
 		<img alt="Last Commit" src="https://custom-icon-badges.demolab.com/github/last-commit/greencomfytea/maplestory.io.gifdownloader?logo=git-commit" />
 	</a>
 	<a href="https://github.com/greencomfytea/maplestory.io.gifdownloader/commits/main">
 		<img alt="Commits Since" src="https://custom-icon-badges.demolab.com/github/commits-since/greencomfytea/maplestory.io.gifdownloader/latest?logo=git-commit" />
-	</a>
-	<a href="https://github.com/greencomfytea/maplestory.io.gifdownloader/commits/main">
-		<img alt="Commits" src="https://custom-icon-badges.demolab.com/github/commit-activity/t/greencomfytea/maplestory.io.gifdownloader?logo=git-commit" />
 	</a>
 	<br>
 	<a href="https://github.com/greencomfytea/maplestory.io.gifdownloader/graphs/commit-activity">
